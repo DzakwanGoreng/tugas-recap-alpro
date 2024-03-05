@@ -1,0 +1,11 @@
+jawaban unit 3
+
+percobaan 4
+
+Program dimulai dengan mendefinisikan maxperson 3 dan max leght name 20
+
+Kemudian kita membuat array char bernama "names" dengan panjang 3 dan panjang char 20, serta array "ages" dengan panjang 3.
+
+kemudian print name, 2 kolom kosong(2x tab), age
+
+Kemudian, dilakukan pengulangan for sebanyak tiga kali untuk mencetak name dan ages
