@@ -1,0 +1,52 @@
+unit 1
+
+Percobaan 2
+
+- percobaan2a.c
+
+prorgam error karena tidak menggunakan #include <stdio.h>
+
+- percobaan2b.c
+
+prorgam error karena pada printf string kita harus menggunakan tanda petik
+
+- percobaan2c.c
+
+prorgam error karena kita mengeksekusi kode program bahasa c/c++ seharusnya kita menempatkan kode program di dalam  int main()
+
+Percobaan 3
+
+output yang dihasilkan
+
+- percobaan3a.c
+
+Baris pertamaBaris kedua
+Baris ketiga
+
+- percobaan3b.c
+
+Oh my, oh my God
+∞ÿê∞âüφûê∞û┤ δéÿ
+I was really hoping that he will come through
+
+*fungsi dari \n adalah teks setelah /n akan dimulai di baris baru
+
+Percobaan 5
+
+- percobaan5a.c
+
+Masukan nama lengkap kamu:
+muhammad naufal dzakwan
+Halo muhammad
+
+- percobaan5b.c
+
+Masukan nama lengkap kamu:
+muhammad naufal dzakwan
+Halo muhammad naufal dzakwan
+
+*scanf hanya mengambil kata pertama yang di inputkan sedangkan fgets mengambil semua kata atau satu baris yang di inputkan
+
+Percobaan 8
+
+angka yang berada dibelakang titik menentukan jumlah digit angka dsimal yang ditampilkan
