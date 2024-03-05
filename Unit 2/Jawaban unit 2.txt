@@ -1,0 +1,22 @@
+Jawaban unit 2
+
+percobaan 4
+
+-percobaan4b.c
+
+Loop pertama berjalan dua kali, karena nilai awal i adalah 2 dan batas atasnya adalah 3. Setiap kali loop berjalan, nilai i akan bertambah satu karena i++
+
+Loop kedua akan berjalan dua kali untuk setiap iterasi dari loop pertama. Nilai awal j adalah 1 dan batas atasnya adalah 2. Setiap kali loop berjalan, nilai j akan bertambah satu karena j++
+
+Setiap iterasi loop kedua akan mencetak "Bilangan pengali" yang dimana di cetak dengan j dan "Hasil perkalian" yang dimana di cetak dengan hasil perkalian dari i \* j
+
+*program ini merupaka prgram untuk menghitung hasil perkalian dari bilangan utama yaitu 2 dan 3 dengan bilangan pengali yaitu 1 dan 2
+
+percobaan 5
+
+Cara kerjanya yaitu i akan dikalikan dengan j secara nested while loop, increment dan reset nilai secara manual dan hasilnya akan ditampilkan ke layar.
+Program ini bekerja dengan i dikalikan dengan j secara nested while loop, increment dan reset nilai dilakukan secara manual hingga hasilnya akan di keluarkan ke layar
+
+percobaan 6
+
+Cara kerjanya yaitu i akan dikalikan dengan j secara do while loop, perhitungan dilakukan lalumelakukan comparison (berkebalikan dengan for loop dan while loop), increment dan reset nilai dilakukan secara manual dan hasilnya akan dikelaurkan ke layar.
